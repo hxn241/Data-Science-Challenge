@@ -1,6 +1,6 @@
 ## Data-Science-Challenge
--Pandas
--Chunks
--Data cleaning.
--Data wrangling.
--Visualization.
+*Pandas
+*Chunks
+*Data cleaning.
+*Data wrangling.
+*Visualization.
